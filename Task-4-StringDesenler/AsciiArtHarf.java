@@ -1,0 +1,17 @@
+package odev;
+
+public class AsciiArtHarf {
+
+	public static void main(String[] args) {
+		    System.out.println("M       M");
+	        System.out.println("MM     MM");
+	        System.out.println("M M   M M");
+	        System.out.println("M  M M  M");
+	        System.out.println("M   M   M");
+	        System.out.println("M       M");
+	        System.out.println("M       M");
+	    }
+
+	}
+
+
